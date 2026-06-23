@@ -1,4 +1,4 @@
-Opa, meu nome é Ygor Barbosa, sou um entusiasta, autodidata e amante de hardwares e softwares.    **ROLL DOWN FOR ENGLISH VERSION**
+Opa, meu nome é Ygor Barbosa, sou um entusiasta, autodidata e amante de hardwares e softwares.  
 
 ### 🚀 Tecnologias e Ferramentas
 
