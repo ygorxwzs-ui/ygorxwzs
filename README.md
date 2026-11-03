@@ -1,5 +1,5 @@
 # Ygor Barbosa
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ygorxwzs-ui)
 **Desenvolvedor Front-end Júnior | React · TypeScript · JavaScript**
 
 Desenvolvedor Front-end júnior com foco em interfaces web responsivas e projetos com React e TypeScript. Este perfil reúne projetos pessoais e exemplos do que venho construindo com HTML, CSS e JavaScript.
